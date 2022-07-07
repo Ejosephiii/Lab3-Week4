@@ -1,0 +1,26 @@
+PART ONE
+
+
+1. https://swapi.dev/api/people/4/
+
+2. https://swapi.dev/api/planets/2/
+
+3. https://swapi.dev/api/starships/10/
+
+4. https://swapi.dev/api/people/2/ , https://swapi.dev/api/species/2/
+
+5. https://swapi.dev/api/people/10/, https://swapi.dev/api/films/1/, https://swapi.dev/api/films/2/, 
+
+https://swapi.dev/api/films/3/, https://swapi.dev/api/films/4/, https://swapi.dev/api/films/5/, https://swapi.dev/api/films/6/
+
+6. https://swapi.dev/api/starships/?search=Millennium
+
+
+PART TWO
+
+
+1. POST accepts, a body and params. the body must accept and object with a key value pair of text: "string". Param content type must be application/json
+
+2. Returns an array of all posts
+
+3. 
